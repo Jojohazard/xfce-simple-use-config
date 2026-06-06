@@ -25,3 +25,4 @@
 
 # ingored apps
 .config/git-cola
+.gitconfig
