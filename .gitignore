@@ -1,0 +1,27 @@
+# Shell/session state
+.bash_history
+.ICEauthority
+.Xauthority
+.xsession-errors
+.xsession-errors.old
+.cache
+
+# Login/session generated
+.dmrc
+.sudo_as_admin_successful
+
+# File manager/runtime metadata
+.local/share/gvfs-metadata/
+.local/share/recently-used.xbel
+
+# Display/hardware specific
+.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml
+.config/pulse
+
+# User-specific generated launchers
+.config/xfce4/panel/launcher-13/
+.config/xfce4/panel/launcher-14/
+.config/xfce4/panel/launcher-16/
+
+# ingored apps
+.config/git-cola
