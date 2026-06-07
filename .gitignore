@@ -6,6 +6,9 @@
 .xsession-errors.old
 .cache
 .local/share/keyrings
+.local/share/recently-used.xbel*
+.lesshst
+.scripts
 
 # Login/session generated
 .dmrc
@@ -18,6 +21,7 @@
 # Display/hardware specific
 .config/xfce4/xfconf/xfce-perchannel-xml/displays.xml
 .config/pulse
+.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml
 
 # User-specific generated launchers
 .config/xfce4/panel/launcher-13/

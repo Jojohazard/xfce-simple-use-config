@@ -7,6 +7,7 @@ sudo apt install \
 xfce4 \
 lightdm \
 kitty \
+tmux \
 firefox-esr \
 thunar \
 thunar-archive-plugin \
