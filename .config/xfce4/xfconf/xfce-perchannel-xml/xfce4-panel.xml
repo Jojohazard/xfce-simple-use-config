@@ -28,15 +28,25 @@
     <property name="panel-2" type="empty">
       <property name="autohide-behavior" type="uint" value="1"/>
       <property name="position" type="string" value="p=10;x=0;y=0"/>
-      <property name="length" type="uint" value="1"/>
+      <property name="length" type="double" value="1"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="48"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="12"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
         <value type="int" value="1"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
       </property>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="border-width" type="uint" value="4"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="length-adjust" type="bool" value="true"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -48,6 +58,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="polkit-mate-authentication-agent-1"/>
         <value type="string" value="networkmanager applet"/>
       </property>
     </property>
@@ -62,7 +73,6 @@
       <property name="button-title" type="uint" value="3"/>
       <property name="appearance" type="uint" value="0"/>
     </property>
-    <property name="plugin-12" type="string" value="separator"/>
     <property name="plugin-13" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17807923953.desktop"/>
@@ -78,6 +88,22 @@
     <property name="plugin-1" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17807923651.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-2" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17807924924.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-3" type="string" value="separator"/>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17807927945.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17807930536.desktop"/>
       </property>
     </property>
   </property>
