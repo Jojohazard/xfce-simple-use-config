@@ -1,0 +1,14 @@
+configuration {
+    modi: "drun,run,window";
+    show-icons: true;
+    font: "DejaVu Sans Mono 12";
+    terminal: "kitty";
+}
+
+@theme "~/.config/rofi/themes/rounded-blue-dark.rasi"
+
+* {
+    background: #1e1e2e;
+    foreground: #cdd6f4;
+    selected: #89b4fa;
+}
