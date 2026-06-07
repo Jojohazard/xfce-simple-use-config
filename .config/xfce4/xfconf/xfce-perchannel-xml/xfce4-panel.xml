@@ -35,6 +35,7 @@
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
+        <value type="int" value="1"/>
       </property>
     </property>
   </property>
@@ -64,15 +65,20 @@
     <property name="plugin-12" type="string" value="separator"/>
     <property name="plugin-13" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17807871131.desktop"/>
+        <value type="string" value="17807923953.desktop"/>
       </property>
     </property>
     <property name="plugin-14" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17807871132.desktop"/>
+        <value type="string" value="17807923822.desktop"/>
       </property>
     </property>
     <property name="plugin-15" type="string" value="tasklist"/>
     <property name="plugin-16" type="string" value="separator"/>
+    <property name="plugin-1" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17807923651.desktop"/>
+      </property>
+    </property>
   </property>
 </channel>
