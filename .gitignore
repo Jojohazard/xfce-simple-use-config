@@ -5,6 +5,7 @@
 .xsession-errors
 .xsession-errors.old
 .cache
+.local/share/keyrings
 
 # Login/session generated
 .dmrc
