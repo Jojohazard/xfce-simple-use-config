@@ -32,13 +32,9 @@
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="48"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="11"/>
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
-        <value type="int" value="16"/>
-        <value type="int" value="17"/>
-        <value type="int" value="18"/>
       </property>
     </property>
   </property>
@@ -66,7 +62,6 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-10" type="string" value="actions"/>
-    <property name="plugin-11" type="string" value="showdesktop"/>
     <property name="plugin-12" type="string" value="separator"/>
     <property name="plugin-13" type="string" value="launcher">
       <property name="items" type="array">
@@ -77,15 +72,6 @@
       <property name="items" type="array">
         <value type="string" value="17807871132.desktop"/>
       </property>
-    </property>
-    <property name="plugin-16" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="17807871144.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-17" type="string" value="separator"/>
-    <property name="plugin-18" type="string" value="directorymenu">
-      <property name="base-directory" type="string" value="/home/test"/>
     </property>
   </property>
 </channel>
